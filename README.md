@@ -1,10 +1,9 @@
-# 🎯 Laravel Task Manager
+# Task Manager
 
 Um gerenciador de tarefas moderno, elegante e funcional, construído com **Laravel**, **Tailwind CSS** e **Docker (Sail)**.
 
-![Preview](https://laravel.com/img/logomark.min.svg) <!-- Você pode substituir por um screenshot real depois -->
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 -   **Gestão de Tarefas (CRUD)**: Criação, edição, visualização e exclusão de tarefas.
 -   **Categorias Personalizadas**: Organize as suas tarefas com categorias que possuem cores únicas.
@@ -14,11 +13,9 @@ Um gerenciador de tarefas moderno, elegante e funcional, construído com **Larav
     *   Filtro por categoria.
 -   **Interface Premium**:
     *   Design Responsivo.
-    *   Suporte completo a **Dark Mode**.
-    *   Efeitos de Glassmorphism e micro-animações.
 -   **Autenticação**: Sistema seguro de login e registro via Laravel Breeze.
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 -   [Laravel 11](https://laravel.com/)
 -   [Laravel Sail](https://laravel.com/docs/sail) (Docker)
@@ -73,7 +70,7 @@ Execute os comandos dentro do container do Sail:
 
 Agora, basta aceder a `http://localhost` no seu navegador.
 
-## 🧪 Comandos Úteis
+## Comandos Úteis
 
 -   **Parar o projeto**: `./vendor/bin/sail stop`
 -   **Rodar testes**: `./vendor/bin/sail artisan test`
