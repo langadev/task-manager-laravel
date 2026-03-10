@@ -1,6 +1,6 @@
 # 🎯 Laravel Task Manager
 
-Um gerenciador de tarefas moderno, elegante e funcional, construído com **Laravel**, **Tailwind CSS** e **Docker (Sail)**. Este projeto foi desenhado com uma estética premium, utilizando elementos de *glassmorphism*, suporte a modo escuro e um sistema de filtros avançado.
+Um gerenciador de tarefas moderno, elegante e funcional, construído com **Laravel**, **Tailwind CSS** e **Docker (Sail)**.
 
 ![Preview](https://laravel.com/img/logomark.min.svg) <!-- Você pode substituir por um screenshot real depois -->
 
