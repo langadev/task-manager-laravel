@@ -77,4 +77,4 @@ Agora, basta aceder a `http://localhost` no seu navegador.
 -   **Aceder ao Tinker**: `./vendor/bin/sail artisan tinker`
 
 ---
-Desenvolvido por [Langa Dev](https://github.com/langadev). 🚀
+Desenvolvido por Alfredo Valente Langa
