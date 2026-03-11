@@ -1,4 +1,4 @@
-# 📋 Task Manager
+#  Task Manager
 
 [![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php)](https://www.php.net/)
@@ -7,7 +7,7 @@
 
 Um gestor de tarefas simples, eficiente e profissional, desenvolvido com **Laravel 11**, **Tailwind CSS** e **Docker Sail**, seguindo as melhores práticas de desenvolvimento.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - **CRUD completo** de tarefas (Criar, Editar, Visualizar, Eliminar)
 - **Organização por categorias** com cores personalizadas
@@ -15,7 +15,6 @@ Um gestor de tarefas simples, eficiente e profissional, desenvolvido com **Larav
 - **Autenticação segura** de utilizadores
 - **Interface responsiva** e moderna
 - **Testes automatizados** para qualidade garantida
-- **Segurança** com validação de dados e proteção CSRF
 
 ##  Tecnologias Utilizadas
 
