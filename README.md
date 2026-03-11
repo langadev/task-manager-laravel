@@ -5,7 +5,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Sail-2496ED?style=flat-square&logo=docker)](https://laravel.com/docs/sail)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
-Um gestor de tarefas simples, eficiente e profissional, desenvolvido com **Laravel 11**, **Tailwind CSS** e **Docker Sail**, seguindo as melhores práticas de desenvolvimento.
+Um gestor de tarefas simples, eficiente e profissional, desenvolvido com **Laravel 11**, **Tailwind CSS** e **Blade**, seguindo as melhores práticas de desenvolvimento.
 
 ##  Funcionalidades
 
